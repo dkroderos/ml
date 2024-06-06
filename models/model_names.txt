@@ -1,0 +1,2 @@
+Malaria.keras
+Malaria.weights.h5
